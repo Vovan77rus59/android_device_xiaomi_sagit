@@ -35,6 +35,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 TARGET_VENDOR := xiaomi
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="sagit-user 9 PKQ1.190118.001 V10.4.1.0.PCAMIXM release-keys"
+    PRIVATE_BUILD_DESC="sagit-user 8.0.0 OPR1.170623.027 V10.3.4.0.OCAMIXM release-keys"
 
-BUILD_FINGERPRINT := "Xiaomi/sagit/sagit:9/PKQ1.190118.001/V10.4.1.0.PCAMIXM:user/release-keys"
+BUILD_FINGERPRINT := "Xiaomi/sagit/sagit:8.0.0/OPR1.170623.027/V10.3.4.0.OCAMIXM:user/release-keys"
